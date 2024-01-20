@@ -2,6 +2,7 @@
   "nbteditor": "Edytor NBT",
   "nbteditor.outdated.title": "Edytor NBT jest przestarzały",
   "nbteditor.outdated.desc": "Dostępna jest nowa aktualizacja!",
+  "nbteditor.nbt_ac.tip": "Pobierz autouzupełnianie NBT, aby uzyskać sugestie",
   "nbteditor.ok": "Ok",
   "nbteditor.cancel": "Anuluj",
   "nbteditor.no_hand.no_item.to_edit": "Musisz trzymać przedmiot, aby go edytować!",
