@@ -189,7 +189,7 @@
   "nbteditor.config.category.functional": "Funkcjonalność",
   "nbteditor.config.shortcuts": "Skróty Grup",
   "nbteditor.config.shortcuts.desc": "Tworzy skróty komend, takie jak wywoływanie\n/lore zamiast /itemfactory display lore",
-  "nbteditor.config.shortcuts.example": "Przykład: \"get hdb\" tworzy skrót /hdb",
+  "nbteditor.config.shortcuts.example": "Przykład: \"get hdb\" tworzy skrót \"/hdb\"",
   "nbteditor.config.enchant_level_max": "Maksymalny Poziom Zaklęć",
   "nbteditor.config.enchant_level_max.desc": "Wyświetla maksymalny poziom zaklęć\npo nazwie zaklęcia.",
   "nbteditor.config.enchant_level_max.never": "Nigdy",
