@@ -13,7 +13,7 @@
   "nbteditor.no_ref.container": "§cMusisz trzymać lub patrzeć na kontener! (np. skrzynkę)",
   "nbteditor.no_ref.skull": "§cMusisz trzymać lub patrzeć na głowę gracza, aby ją edytować!",
   "nbteditor.no_ref.block": "§cMusisz trzymać lub patrzeć na blok, aby go edytować!",
-  "nbteditor.no_ref.signboard": "§cAby edytować, musisz patrzeć na tabliczkę lub ją trzymać!",
+  "nbteditor.no_ref.signboard": "§cMusisz trzymać lub patrzeć na tabliczkę aby ją edytować!",
   "nbteditor.no_hand.no_item.to_edit": "§cMusisz trzymać przedmiot, aby go edytować!",
   "nbteditor.no_hand.no_item.to_view": "§cMusisz trzymać przedmiot, aby go przeglądać!",
   "nbteditor.no_hand.no_item.to_export": "§cMusisz trzymać przedmiot, aby go wyeksportować!",
